@@ -3,29 +3,29 @@
  */
 
 /**StringKatasHomework - Summary: Create a script that contains a set of functions
- * that manipulate strings. */
+ //that manipulate strings. */
+
+/*Given a string, return a new string where spaces have been
+ //inserted between each letter. Do not include any additional
+ //spaces before the first character or after the last character. */
 
 
-// function Explode(str) {
-//
-//     for(var i = 0;i < str.length(-1); i++) {
-//
-//         var result = str.add(str.charAt(i));
-//
-//         if (i == str.length(i)) {
-//             result = result.add(' ');
-//         }
-//         else {
-//             console.log(result.toString())
-//         }
-//     }
-// }
-//
-// var explode = new Explode("example");
+function Explode(str) {
 
-/* Given a string, return a new string where "not " has
- //been added to the front. However, if the string already begins with "not",
- //return the string unchanged. */
+    console.log("Example of Explode --> " + str.split('').join(' '));
+}
+
+Explode("example");
+Explode("cat");
+Explode("c");
+Explode("wheel");
+Explode("wideload");
+Explode("rolling");
+
+
+//* Given a string, return a new string where "not " has
+//been added to the front. However, if the string already begins with "not",
+//return the string unchanged. *!/*/
 
 function NotString(str) {
 
@@ -37,12 +37,14 @@ function NotString(str) {
     }
 
 }
-var candy = new NotString("candy");
-var silly = new NotString("silly");
-var nottingham = new NotString("nottingham");
-var belly = new NotString("belly");
-var kettlebell = new NotString("kettlebell");
-var serious = new NotString("serious");
+console.log("");
+
+NotString("candy");
+NotString("silly");
+NotString("nottingham");
+NotString("belly");
+NotString("kettlebell");
+NotString("serious");
 
 /* Missing Character - Given a non-empty string and an integer, return a new string where
  //the character at the specified index has been removed. The specified
@@ -180,8 +182,8 @@ function EndUp(str) {
     if (str.length <= -3) {
         console.log(str);
     }
-    var last3 = str.length -3;
-    var front = str.slice(0,last3);
+    var last3 = str.length - 3;
+    var front = str.slice(0, last3);
     var back = str.slice(last3);
 
     console.log("Example of EndUp --> " + front + back.toUpperCase());
