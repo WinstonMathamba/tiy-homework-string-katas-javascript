@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="41360344-8255-4e88-a5c0-dc30ff42e081" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/string-katas.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/string-katas.js" afterPath="$PROJECT_DIR$/string-katas.js" />
     </list>
     <ignored path="tiy-homework-string-katas-javascript.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -27,8 +28,8 @@
       <file leaf-file-name="string-katas.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/string-katas.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="321">
-              <caret line="153" column="0" selection-start-line="153" selection-start-column="0" selection-end-line="153" selection-end-column="0" />
+            <state relative-caret-position="531">
+              <caret line="196" column="13" selection-start-line="196" selection-start-column="13" selection-end-line="196" selection-end-column="13" />
               <folding />
             </state>
           </provider>
@@ -66,7 +67,7 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="width" value="486" />
+    <option name="width" value="553" />
     <option name="height" value="900" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
@@ -589,15 +590,15 @@
       <option name="presentableId" value="Default" />
       <updated>1470919573486</updated>
       <workItem from="1470919574725" duration="6910000" />
-      <workItem from="1470945773208" duration="17414000" />
+      <workItem from="1470945773208" duration="20317000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="24324000" />
+    <option name="totallyTimeSpent" value="27227000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="486" height="900" extended-state="6" />
+    <frame x="0" y="0" width="553" height="900" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -664,8 +665,8 @@
     <entry file="file://$PROJECT_DIR$/stringKatas.js" />
     <entry file="file://$PROJECT_DIR$/string-katas.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="321">
-          <caret line="153" column="0" selection-start-line="153" selection-start-column="0" selection-end-line="153" selection-end-column="0" />
+        <state relative-caret-position="531">
+          <caret line="196" column="13" selection-start-line="196" selection-start-column="13" selection-end-line="196" selection-end-column="13" />
           <folding />
         </state>
       </provider>
